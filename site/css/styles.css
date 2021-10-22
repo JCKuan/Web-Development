@@ -50,6 +50,16 @@ body {
 	vertical-align: middle;
 }
 
+.navbar-toggler {
+	float: right;
+}
+
+#buttons div {
+	position: absolute;
+	bottom: 20px;
+	right: 20px;
+}
+
 
 
 
